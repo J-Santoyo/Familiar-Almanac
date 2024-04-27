@@ -1,0 +1,17 @@
+@font-face {
+    font-family: 'Arcane Nine Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Arcane Nine Regular'), url('ArcaneNine-eZP1x.woff') format('woff');
+    }
+
+#cardDisplay {
+    position: absolute;
+    left: 5px;
+    bottom: 5px;
+}
+
+h1 {
+    font-family: 'Arcane Nine Regular';
+    font-size: '6em';
+}
