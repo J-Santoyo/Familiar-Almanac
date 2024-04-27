@@ -5,6 +5,10 @@
     src: local('Arcane Nine Regular'), url('ArcaneNine-eZP1x.woff') format('woff');
     }
 
+body {
+    background-color: #827bd7;
+    }
+
 #cardDisplay {
     position: absolute;
     left: 5px;
